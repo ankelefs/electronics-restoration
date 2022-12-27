@@ -3,7 +3,7 @@ by ankelefs
 
 This is a repository for documenting the attempt at restoring certain electronic appliances.
 
-<h3>Project Overview</h3>
+<h3>Project Overview ✅</h3>
 Super Nintendo Entertainment System (IN PROGRESS)
 
 <h3>Detailed View 🗃</h3>
