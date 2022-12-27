@@ -1,0 +1,13 @@
+## 27.12.2022 TESTING
+Method: 
+  1 Hooked up to a TV with RCA-cables (new).
+  2 Inserted game (tested both games) into SNES (after using compressed air to clean every visible pin).
+  3 Turned on.
+Results & Discussion:
+  * There is sound coming from the TV/system, i.e. the cable and SNES (partially) works.
+  * There was NO VIDEO. From Google search it seems there either is dirt inside the SNES that needs to be (deep-)cleaned, or the main board has a fault.
+  * Could not test controllers due to no feedback if working or not.
+Further work:
+  * Need to open up SNES and deep-clean.
+  * --> Test again.
+  * Still not working: Look for errors on the main board/try to isolate the problem.
